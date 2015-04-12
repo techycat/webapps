@@ -1,4 +1,5 @@
 <?php
+echo "hai its me";
 function randpass()
 { 
     srand((double)microtime()*1000000); 
